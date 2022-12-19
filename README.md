@@ -1,7 +1,7 @@
 # Resturant-Website "Daisy"
 
 # in this repository I uploaded a website made for a restaurant by using html, css, and javascripy.
-It was my project during my web development course.
+# It was my project during my web development course.
 
 # the website contains several pages which they are :  
 
