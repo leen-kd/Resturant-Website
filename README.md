@@ -3,9 +3,9 @@
 # in this repository I uploaded a website made for a restaurant by using html, css, and javascripy.
 # It was my project during my web development course.
 
-# the website contains several pages which they are :  
+# the website contains several pages which are :  
 
-# 1- home page which discripe the resturant in general.
+# 1- home page which describe  the resturant in general.
 
 # 2- menu page which display the meals that the resturant serve.
 
